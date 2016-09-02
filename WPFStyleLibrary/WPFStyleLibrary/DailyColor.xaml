@@ -1,0 +1,40 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WPFStyleLibrary">
+    <SolidColorBrush x:Key="Color_Border"
+                     Color="#212121" />
+    <SolidColorBrush x:Key="Color_Border_MouseOver"
+                     Color="#2196F3" />
+    <SolidColorBrush x:Key="Color_Border_Pressed"
+                     Color="#1976D2" />
+    <SolidColorBrush x:Key="Color_Border_Unable"
+                     Color="#757575" />
+
+    <SolidColorBrush x:Key="Color_Text"
+                     Color="#212121"/>
+    <SolidColorBrush x:Key="Color_Text_MouseOver"
+                     Color="#2196F3" />
+    <SolidColorBrush x:Key="Color_Text_Pressed"
+                     Color="#1976D2" />
+    <SolidColorBrush x:Key="Color_Text_Unable"
+                     Color="#757575" />
+
+    <SolidColorBrush x:Key="Color_Icons"
+                     Color="#212121" />
+    <SolidColorBrush x:Key="Color_Icons_MouseOver"
+                     Color="#2196F3" />
+    <SolidColorBrush x:Key="Color_Icons_Pressed"
+                     Color="#1976D2" />
+    <SolidColorBrush x:Key="Color_Icons_Unable"
+                     Color="#757575" />
+
+    <SolidColorBrush x:Key="Color_Background"
+                     Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="Color_Background_MouseOver"
+                     Color="#FFFFFF" />
+    <SolidColorBrush x:Key="Color_Background_Pressed"
+                     Color="#FFFFFF" />
+    <SolidColorBrush x:Key="Color_Background_Unable"
+                     Color="#BDBDBD" />
+
+</ResourceDictionary>
